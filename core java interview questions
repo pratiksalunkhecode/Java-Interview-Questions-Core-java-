@@ -1,0 +1,49 @@
+What is Java
+What are the features of Java?
+What are the new features released in Java 8?
+What are the new features released in Java 11?
+What are the new features released in Java 14?
+What are the new features released in Java 17?
+What do you mean by Constructor and what are the different types of Constructor available in java?
+What do are the different types of variables available in Java?
+What do you mean by Class?
+What do you mean by Object?
+What are the different types of Polymorphism?
+Explain the concept with real world examples?
+What do you mean by Interface?
+How is an interface different from an abstract class?
+What do you mean by Arrays?
+How is String different from an array?
+How is a string stored internally?
+Why are Strings called immutable?
+What do you mean String pool?
+What the difference between String, StringBuilder, String Buffer?
+Being a Java Developer yourself, what is that one problem which you encountered and how you solved using Java?
+What do you Thread Safe Collection?
+What do you mean by Collections?
+How does Collections.sort work internally and which sorting algo does it use?
+How does a HashMap work internally?
+What is the difference between an array and an ArrayList?
+What do you mean by the synchronised block?
+What are the 5 methods available in Object class?
+How does sleep() differs from yield()?
+What do you mean by transient variable?
+How does JVM, JDK and JRE differ?
+What do you mean by maker interface, give some commonly used maker interface?
+What are the different types of Class Loader available in Java?
+why Java doesnot supports multiple inheritance?
+Can you overload the main method?
+Difference between final, finalize and finally?
+Difference between throw, throws?
+What are the functions present in the Exception class?
+Why is main method static and what is the purpose of static method?
+What is the difference between super & super()?
+What is the impact of declaring a class, function, variable as final?
+Can you declare a class to be static?
+What do you mean by Exception?
+What is the class hierarchy of exception?
+How do you define a class as immutable?
+How do you define a class as Singleton?
+The lifecyle of a thread?
+Real world example of use of thread?
+What is the difference between Runnable interface and Thread class?
